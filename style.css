@@ -17,9 +17,12 @@
 }
 
 .custom-navbar .navbar-nav .nav-link {
-		padding-left: .9rem;
+		padding-left:.9rem;
 		padding-right: .9rem;
-}	
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link	{
+	background-color: #f2745f;
+}
 
 @media (min-width: 992px) {
 	.custom-navbar {
@@ -88,7 +91,13 @@
 	background-color:#46bae2;
 	color: #fff;
 }
-
+.section-1 h5{
+	font-size: 44px;
+	font-weight: 300;
+}
+.section-1{
+	font-size: 17px;
+}
 .first-service{
 	background-color: #f36d63ba;
 	padding: 40px;
