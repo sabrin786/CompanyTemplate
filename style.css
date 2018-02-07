@@ -40,6 +40,7 @@
 .home {
 	background-image: url("image/top-bg.jpg");
 	background-repeat: no-repeat;
+    background-size: cover;
 }
 .top-content{
 	text-align: center;
