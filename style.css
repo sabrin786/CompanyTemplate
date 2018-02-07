@@ -39,6 +39,7 @@
 }
 .home {
 	background-image: url("image/top-bg.jpg");
+	background-repeat: no-repeat;
 }
 .top-content{
 	text-align: center;
