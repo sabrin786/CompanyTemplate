@@ -85,19 +85,10 @@
 }
 
 .section-1{
-	height: 250px;
-	background-color:skyblue;
+	background-color:#46bae2;
 	color: #fff;
 }
-.discover-more{
-	text-align: center;
-	border-width: .5px;
-	border-style: solid;
-	padding: 10px;
-	border-color: #fff;
-	color: #fff;
-	font-size: 15px;
-}
+
 .first-service{
 	background-color: #f36d63ba;
 	padding: 40px;
