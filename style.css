@@ -20,9 +20,6 @@
 		padding-left:.9rem;
 		padding-right: .9rem;
 }
-.nav-pills .nav-link.active, .nav-pills .show>.nav-link	{
-	background-color: #f2745f;
-}
 
 @media (min-width: 992px) {
 	.custom-navbar {
@@ -30,8 +27,9 @@
 		padding-bottom: 0;
 	}
 }
-.custom-navbar .active {
+.custom-navbar .navbar-nav .nav-link.active {
 	background-color: #f2745f;
+	color: #fff;
 }
 .custom-navbar .navbar-nav .active>.nav-link {
 	color: #fff;
